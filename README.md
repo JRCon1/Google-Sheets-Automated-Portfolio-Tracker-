@@ -1,3 +1,5 @@
+https://docs.google.com/spreadsheets/d/1loKt4k5q7tXFvrlgLloPcnvnuCCromIjADUvxqxyksU/edit?gid=0#gid=0
+
 Automated Google Sheets Portfolio Tracker
 Project Overview
 Intent:
